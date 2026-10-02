@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Model weights
+*.pt
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
